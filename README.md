@@ -1,5 +1,5 @@
 # momentum
-![Momentum Hero](momentum/Hero Image Treatments/IMG_0072.PNG)
+![Momentum Hero](/momentum/Hero Image Treatments/IMG_0072.PNG)
 
 The project home of the Momentum.
 
